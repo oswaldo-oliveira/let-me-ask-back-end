@@ -15,6 +15,13 @@
       "when": 1752062156707,
       "tag": "0001_awesome_triton",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752104346276,
+      "tag": "0002_magical_hardball",
+      "breakpoints": true
     }
   ]
 }
